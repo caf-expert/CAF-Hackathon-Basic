@@ -42,11 +42,11 @@ Typically, these will be in this range:
 
 - Data Centre 15 to 22% (lower if they have high cloud adoption)
 - End User Compute 10 to 14% (lower if they have low EUC usage for example limited number of knowledge workers)
-- Application Development 15 to 22% (lower if they predominantly use COTs applications and don't do much custom app dev)
+- Application Development 15 to 22% (lower if they predominantly use COTS applications and don't do much custom app dev)
 - Application Support 19 to 22% (linked to above as well as complexity of applications, heavy ERP usage adds to cost)
 - IT Service Desk 5 to 7%
 - Voice & Data Networking 10 to 15% (influenced by number of branch locations and geography)
-- IT Management, FG&A 8 to 12% (heavily offshore will lower these costs usually, but if there is lots of change offshore can be more expensive)
+- IT Management 8 to 12% (heavily offshore will lower these costs usually, but if there is lots of change offshore can be more expensive)
 
 ### Estimate cost savings from moving to cloud
 
