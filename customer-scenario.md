@@ -64,13 +64,13 @@ Typically, these will be in this range:
 
 - The customer needs to provide information here, list the 8 countries, and get an anecdotal view of the state of their IT, as in this example
   - United Kingdom, 25% IT spend, aligned to global standards, no adjustment up needed
-  - France, 18% IT spend, aligned to global standards, no adjustment up needed
-  - Spain, 12% IT spend, aligned to global standards, no adjustment up needed
+  - France, 13% IT spend, aligned to global standards, no adjustment up needed
+  - Spain, 10% IT spend, aligned to global standards, no adjustment up needed
   - Italy, 15% IT spend, under specified, high adjustment
   - Portugal, 13% IT spend, aligned to global standards, no adjustment up needed
-  - Belgium, 17% IT spend, under specified, medium adjustment
-  - Netherlands, 14% IT spend, aligned to global standards, no adjustment up needed
-  - Luxembourg, 8% IT spend, under specified, low adjustment
+  - Belgium, 10% IT spend, under specified, medium adjustment
+  - Netherlands, 8% IT spend, aligned to global standards, no adjustment up needed
+  - Luxembourg, 6% IT spend, under specified, low adjustment
 - Ask about the size of the investment this is usually a range of 5 to 15%
   - Low adjustment = 5%
   - Medium adjustment = 10%
